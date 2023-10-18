@@ -1,0 +1,2 @@
+foo = 'Python'
+print (foo)
